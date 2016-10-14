@@ -1,0 +1,66 @@
+1.- ¿Qué es ICONIX?
+Es un proceso incremental, que es guiado con casos de uso y ofrece trazabilidad
+2.- ¿Flujos de trabajo que propone ICONIX?
+Dinamico y Estatico
+3.-¿Cuales son los pasos y sus hitos o metas?
+Analisis de requerimientos -> revision de requerimientos
+Preliminar -> Revision 
+Entrega del sistema
+
+4.-¿Que propone ICONIX para recabar requerimientos?
+Objetos del dominio y relaciones de agregación
+prototipo
+casos de uso
+casos de uso por paquetes
+Asignación de requerimientos no funcionales a casos de uso por objetos
+
+5.-¿Que propone el diseño preliminar?
+Analisis de robustes, refinamiento del modelo del dominio
+
+6.-¿Cual es que la utilidad de hacer el diagrama de robustes?
+el analisis de r es util para identificar los objetos de un esenario.
+
+7.-¿Que propone ICONIX para realizar el diseño?
+Asignación de secuencias
+Diagramas de colaboracion
+
+8.-¿Como se define el dominio de un problema?
+area que cubre las cosas y conceptos relacionados que el proyecto debera resolver
+
+9.-¿Como se define el modelado del dominio?
+Tarea o actividad de descubirir objetos (clases ) que representan esas clase o conceptos
+
+10.-¿Cuales son las fuentes de información para el modelo del dominio?
+Descripcion del alto nivel del problema, conocimiento de los expertos, literatura
+
+11.-¿Que es un objeto?
+Es algo a lo que se dijire en pensamiento u acciones
+
+12.-¿Que elemento componen otro objeto?
+comportamiento, estado y una identificación
+
+13.-¿Como se define el comportamiento de un objeto?
+como actua y responde un objeto, es decir cambio de estado y paso de mensajes
+
+14.-¿Que es una clase?
+Descripcion de un conjunto de objetos de comparten semantica, descripcion estructura, comportamiento
+
+15.-¿Que es una interfaz?
+vista exterior de una clase que permite un contrato con las responsabilidades que esta exige y ofrece
+
+16.-¿Cual es el procedimiento que propone ICONIX para el modelado del dominio?
+Tomar documentos para subrayar sustantivos y verbos, formar lista de sustantivos nominales, ordenar de manera alfabeticamente evitando plurales, eliminar sustantivos vagos incorrectos o invalidos, construir relaciones de generalización 
+
+17.-¿Que es una clase de asociacion?
+Clases que representan una asosiacion de 2 clases y es tan fuerte el lazo que debe existir una clase para ello
+
+18.-¿defina que es un caso de uso?
+Secuencia de acciones que un actor, realiza dentro del sistema para lograr una meta
+
+19.-¿Defina que es un actor?
+persona, sistema o harware.
+
+20.-¿Cuales son los 2 tipos de casos de uso?
+
+21.-¿Cuales son los elementos de un diagrama de robustez?
+Boundary, Entity, Controls
