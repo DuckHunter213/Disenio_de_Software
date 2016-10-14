@@ -1,17 +1,17 @@
-El administrador quiere renovar los permisos de un usuario registrado en el sistema
-El administrador quiere agregar un usuario al sistema
-El administrador quiere editar a un usuario del sistema
-El administrador quiere retirar permisos de usuario
+/El administrador quiere renovar los permisos de un usuario registrado en el sistema
+/El administrador quiere agregar un usuario al sistema
+/El administrador quiere editar a un usuario del sistema
+/El administrador quiere retirar permisos de usuario
 
-El administrador quiere renovar registrar un nuevo préstamo, a menos que esté reservado
-El administrador quiere renovar el tiempo de préstamo de los items
+/El administrador quiere renovar registrar un nuevo préstamo, a menos que esté reservado
+/El administrador quiere renovar el tiempo de préstamo de los items
 
 El administrador quiere agregar información sobre las adquisiciones del sistema
 El administrador quiere editar la información sobre las adquisiciones del sistema
 El administrador quiere agregar información sobre pérdidas de items
 
-El administrador quiere registrar el devolución de un item
-El adminsitrador quiere crear un reporte anexo a la devolución del item (opcional)
+/El administrador quiere registrar el devolución de un item
+/El adminsitrador quiere crear un reporte anexo a la devolución del item (opcional)
 
 El administrador quiere ver los items reservados
 El administrador quiere, al ver el item reservado, pasará a prestarlo
