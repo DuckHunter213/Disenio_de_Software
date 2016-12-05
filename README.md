@@ -12,13 +12,13 @@ Indice
   
   2.1.	[Diagrama de paquetes.](https://github.com)
   
-  2.2.	[Diagrama de Casos de Uso por paquete.](https://github.com)
+  2.2.	[Diagrama de Casos de Uso por paquete.](https://github.com/DuckHunter213/Disenio_de_Software/tree/master/Entregables/Definicion%20de%20Requerimientos/Modelado%20de%20casos%20de%20uso)
   
   2.3.	[Detalle de Casos de uso.](https://github.com/DuckHunter213/Disenio_de_Software/tree/master/Entregables/Casos%20de%20uso)
 
 3.	Diseño
   
-  3.1.	[Diagramas de robustez por caso de uso.](https://github.com)
+  3.1.	[Diagramas de robustez por caso de uso.](https://github.com/DuckHunter213/Disenio_de_Software/tree/master/Entregables/Analisis%20Conceptual/Analisis%20de%20robustes)
   
   3.2.	[Diagramas de secuencia por caso de uso.](https://github.com)
   
@@ -26,7 +26,23 @@ Indice
   
   3.4.	[Diagramas de estado por objeto.](https://github.com)
 
-4.	[Prototipo.](https://github.com)
+4.	[Prototipos.](https://github.com/DuckHunter213/Disenio_de_Software/tree/master/Entregables/GUI)
+
+  4.1. [Administrar devoluciones](https://github.com/DuckHunter213/Disenio_de_Software/tree/master/Entregables/GUI/administrar%20devoluciones/pages)
+  
+  4.2. [Administrar material](https://github.com/DuckHunter213/Disenio_de_Software/tree/master/Entregables/GUI/administrar%20material/pages)
+  
+  4.3. [Administrar multas](https://github.com/DuckHunter213/Disenio_de_Software/tree/master/Entregables/GUI/administrar%20multas/pages)
+  
+  4.4. [Administrar préstamos](https://github.com/DuckHunter213/Disenio_de_Software/tree/master/Entregables/GUI/administrar%20pr%C3%A9stamos/pages)
+  
+  4.5. [Administrar reservados](https://github.com/DuckHunter213/Disenio_de_Software/tree/master/Entregables/GUI/administrar%20reservados/pages)
+  
+  4.6. [Administrar usuario](https://github.com/DuckHunter213/Disenio_de_Software/tree/master/Entregables/GUI/administrar%20usuario/pages)
+  
+  4.7. [Inicio sesion](https://github.com/DuckHunter213/Disenio_de_Software/tree/master/Entregables/GUI/inicio%20sesion/pages)
+  
+  4.8. [Renovar usuario](https://github.com/DuckHunter213/Disenio_de_Software/tree/master/Entregables/GUI/renovar%20usuario/pages)
 
 5.	Conclusiones
 
