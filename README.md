@@ -29,3 +29,6 @@ Indice
 4.	[Prototipo.](https://github.com)
 
 5.	Conclusiones
+
+Como conclusión podemos decir que fue una experiencia fabulosa al desarrollar los planos del programa, aprendimos a trabajar en equipos y nos llevamos lo mejor del desarrollo de este sistema aprendizajes y demás.
+Los avances logrados fueron, llevar acabo la metodología de ICONIX al 80% donde manejamos todos los diagramas y modelos de dominio, casos de uso, diagramas de robustes y secuencia y hasta la entrega solo faltan los modelos de estados, los cuales por faltas de tiempo no se pudieron implementar, aunque claro el sistema podría ser implementado para futuros desarrollos, el sistema fue pensado para ser dos sistemas uno de administración y otro un sistema web para los usuarios pensados en salir en la segunda versión posterior a terminar la de desarrollo del sistema de administración 
