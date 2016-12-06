@@ -10,8 +10,6 @@ Indice
 
 2.	Definición de requerimientos
   
-  2.1.	Diagrama de paquetes.
-  
   2.2.	[Diagrama de Casos de Uso por paquete.](https://github.com/DuckHunter213/Disenio_de_Software/tree/master/Entregables/Definicion%20de%20Requerimientos/Modelado%20de%20casos%20de%20uso)
   
   2.3.	[Detalle de Casos de uso.](https://github.com/DuckHunter213/Disenio_de_Software/tree/master/Entregables/Casos%20de%20uso)
