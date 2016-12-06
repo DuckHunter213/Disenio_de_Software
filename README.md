@@ -1,5 +1,5 @@
 # Diseño de Biblioteca
-Este documento tiene como fin mostrar la forma de diagramar un sistema de un biblioteca, en la forma de ocupar este repositorio, es bajar todo el repositorio, y buscar el documento de especificaciones, o checar los items uno a uno por medio del redireccionamiento.
+Este documento tiene como fin mostrar la forma de diagramar un sistema de un biblioteca, en la forma de ocupar este repositorio, es bajar todo el repositorio, y buscar el documento de especificaciones este tiene ligas a los documentos en caso de no funcionar checar en la carpeta Entregables donde viene todo lo generado para el documento, o checar los items por medio del indice uno a uno más abajo de estas instrucciones.
 
 ## Entregables
 
@@ -10,7 +10,7 @@ Indice
 
 2.	Definición de requerimientos
   
-  2.1.	[Diagrama de paquetes.](https://github.com)
+  2.1.	Diagrama de paquetes.
   
   2.2.	[Diagrama de Casos de Uso por paquete.](https://github.com/DuckHunter213/Disenio_de_Software/tree/master/Entregables/Definicion%20de%20Requerimientos/Modelado%20de%20casos%20de%20uso)
   
@@ -18,13 +18,13 @@ Indice
 
 3.	Diseño
   
-  3.1.	[Diagramas de robustez por caso de uso.](https://github.com/DuckHunter213/Disenio_de_Software/tree/master/Entregables/Analisis%20Conceptual/Analisis%20de%20robustes)
+  3.1.	[Diagramas de robustez por caso de uso.](https://github.com/DuckHunter213/Disenio_de_Software/tree/master/Entregables/Analisis%20Conceptual/Analisis%20de%20Robustes)
   
-  3.2.	[Diagramas de secuencia por caso de uso.](https://github.com)
+  3.2.	[Diagramas de secuencia por caso de uso.](https://github.com/DuckHunter213/Disenio_de_Software/tree/master/Entregables/Analisis%20Conceptual/Modelos%20de%20Secuencia)
   
-  3.3.	[Diagrama de clases del modelo de dominio.](https://github.com)
+  3.3.	[Diagrama de clases del modelo de dominio.](https://github.com/DuckHunter213/Disenio_de_Software/tree/master/Entregables/Analisis%20Conceptual/Modelo%20de%20clases)
   
-  3.4.	[Diagramas de estado por objeto.](https://github.com)
+  3.4.	[Diagramas de estado por objeto.](https://github.com/DuckHunter213/Disenio_de_Software/tree/master/Entregables/Analisis%20Conceptual/Modelo%20de%20Objetos)
 
 4.	[Prototipos.](https://github.com/DuckHunter213/Disenio_de_Software/tree/master/Entregables/GUI)
 
